@@ -16,9 +16,7 @@ PizzaApp es una aplicación móvil desarrollada en Kotlin que permite a los usua
 
 ## Capturas de pantalla
 
-![Pantall 1](/img/img1.png)
-![Pantall 1](/img/img2.png)
-![Pantall 1](/img/img3.png)
+<img src="/img/img1.png" alt="Pantalla 1" width="200"/>
 
 ## Instalación
 
