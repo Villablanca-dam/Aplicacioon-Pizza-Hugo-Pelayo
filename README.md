@@ -1,2 +1,2 @@
-# Aplicacioon-Pizza-Hugo-Pelayo
+# Aplicacioon Pizza Hugo-Pelayo
 Aplicación pedidos de pizza usando Jetpack Compose
