@@ -29,3 +29,7 @@ Para ejecutar la aplicación en tu dispositivo, sigue estos pasos:
 1. Clona este repositorio en tu máquina local utilizando Git:
 
 2. Abrir la carpeta app como proyecto con android y ejecutar.
+
+## Información
+
+Las pruebas se han hecho mayoritariamente sobre el emulador Pixel 4 API 31 (x86_64) usando  Android 12 ("S").
