@@ -40,7 +40,7 @@ import dam2.pdmm.login.utilidades.TextoCuerpo
  * @param usuarioVM ViewModel con información sobre los usuarios.
  * */
 
-// Porque se queja el puto IDE si no uso el padding values de la lambda final de scaffold
+// Porque se queja el IDE si no uso el padding values de la lambda final de scaffold
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 
 // Por algún motivo requiere features del experimental cuando Material3 se supone que ya era estable
